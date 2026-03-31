@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="RelacionalAseguradora" id="04FC53BB-AFBB-1677-E609-D09F1750D5CB" version="3.5">
+<createdBy>lzeni</createdBy>
+<createdTime>2026-03-31 00:46:27 UTC</createdTime>
+<ownerDesignName>RelacionalAseguradora</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>04FC53BB-AFBB-1677-E609-D09F1750D5CB</designId>
+</OSDM_Design>
